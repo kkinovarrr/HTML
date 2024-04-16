@@ -11,7 +11,7 @@
     <div>
       <ul>
         <li>
- <b>Guessing game.</b> Было создано во время обучнения на курсах Microsoft.
+ <b>Guessing game.</b> Было создано во время обучнения на курсах Mozilla Developer.
     <p align="center"><img src="https://github.com/kkinovarrr/HTML/assets/118617721/d3802d83-aa4e-42e6-8700-b0b8a083b34c" alt="Number guessing game Screenshoot" /></p>
 </li>
   <li>
