@@ -3,7 +3,7 @@
 <h1 align="center"> 🤍Сайты🤍</h1>
 <br>
 <div align="center">
-   <img src="https://bogatyr.club/uploads/posts/2023-06/1687398114_bogatyr-club-p-rozovie-volosi-foni-krasivo-47.jpg"  />
+ <img src="https://github.com/kkinovarrr/HTML/assets/118617721/0fba5806-86cd-499a-a176-15c9a8f5cda8" />
 </div>
 <div>
   <h2 align="center">Тут будут все сайты и примеры работы, которые я создавала.</h2>
