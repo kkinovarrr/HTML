@@ -10,16 +10,18 @@
 </div>
     <div>
       <ul>
+        <li>
+ <b>Guessing game.</b> Было создано во время обучнения на курсах Microsoft.
+    <p align="center"><img src="https://github.com/kkinovarrr/HTML/assets/118617721/d3802d83-aa4e-42e6-8700-b0b8a083b34c" alt="Number guessing game Screenshoot" /></p>
+</li>
   <li>
     <b>Maria Curie Page.</b> Было создано во время обучнения на сайте freeCodeCamp.
-    <p align="center"><img src="https://github.com/kkinovarrr/HTML/assets/118617721/e4597e12-baac-40d0-aa20-71febf66da46" /></p>
+    <p align="center"><img src="https://github.com/kkinovarrr/HTML/assets/118617721/e4597e12-baac-40d0-aa20-71febf66da46" alt="Marie Curie Page Screenshoot" /></p>
   </li>
   <li>
     <b>Form Page.</b> Было создано во время обучнения на сайте freeCodeCamp.
-    <p align="center"><img src="https://github.com/kkinovarrr/HTML/assets/118617721/e4597e12-baac-40d0-aa20-71febf66da46" /></p>
+    <p align="center"><img src="https://github.com/kkinovarrr/HTML/assets/118617721/1fd9d2ed-8b52-4cdd-bf34-feae9c88e1bb" alt="Form Page Screenshoot" /></p>
   </li>
-<li>
- 
-</li>
       </ul>
 </div>
+
